@@ -1,2 +1,5 @@
-#Ignore folder called gowalla
-gowalla/
+/Data
+
+/gowalla
+
+/ummenv
